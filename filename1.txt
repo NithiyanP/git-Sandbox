@@ -19,5 +19,11 @@ if (Committed){
 
 	function sub(int a, int b){
 	 return a-b;
+
+	function add(int a, int b{
+	return a+b;
 	}
 
+	function multiply (int a, int b){
+	return a*b;
+	}
